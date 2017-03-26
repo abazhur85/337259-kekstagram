@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Lena Zhuravleva](https://up.htmlacademy.ru/javascript/9/user/337259).
-* Наставник: `Неизвестно`.
+* Наставник: `Данил Чекалин`.
 
 ---
 
